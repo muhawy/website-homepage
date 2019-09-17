@@ -2,6 +2,6 @@
 Collection of my simple website home page
 
 
-![](images/landingpage-small.png)
+![](images/landingpage.png)
 
-![](images/museumcandy-small.png)
+![](images/museumcandy.png)
