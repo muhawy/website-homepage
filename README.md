@@ -2,6 +2,8 @@
 Collection of my simple website home page
 
 
-![](images/landingpage.png)
+<img src="images/landingpage.png" width="500">
 
-![](images/museumcandy.png)
+<img src="images/museumcandy.png" width="500">
+
+
